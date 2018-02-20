@@ -1,10 +1,12 @@
 [
   {
     "name": "CV",
-    "githubUrl": "https://github.com/pawelkassyk/CV"
+    "githubUrl": "https://github.com/pawelkassyk/CV",
+    "description": "Curriculum Vitae - Android Application/nTechnical Stack: Java, Android, Json, Retrofit 2, XML, Git"
   },
   {
     "name": "Calculator",
-    "githubUrl": "https://github.com/pawelkassyk/calculator"
+    "githubUrl": "https://github.com/pawelkassyk/calculator",
+    "description": "Calculatr - Android Application/nTechnical Stack: Java, Android, Json, Retrofit 2, XML, Git, Gitflow, JUnit, Espresso"
   }
 ]

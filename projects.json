@@ -1,6 +1,10 @@
 [
   {
-    "name": "projekt testowy",
+    "name": "CV",
     "githubUrl": "https://github.com/pawelkassyk/CV"
+  },
+  {
+    "name": "Calculator",
+    "name": "https://github.com/pawelkassyk/calculator"
   }
 ]

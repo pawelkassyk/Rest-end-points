@@ -2,17 +2,17 @@
   {
     "name": "CV",
     "githubUrl": "https://github.com/pawelkassyk/CV",
-    "description": "Curriculum Vitae - Android Application/nTechnical Stack: Java, Android, Json, Retrofit 2, XML, Git"
+    "description": "Curriculum Vitae - Android Application\nTechnical Stack: Java, Android, Json, Retrofit 2, XML, Git"
   },
   {
     "name": "Calculator",
     "githubUrl": "https://github.com/pawelkassyk/calculator",
-    "description": "Calculator - Android Application/nTechnical Stack: Java, Android, Json, Retrofit 2, XML, Git, Gitflow, JUnit",
+    "description": "Calculator - Android Application\nTechnical Stack: Java, Android, Json, Retrofit 2, XML, Git, Gitflow, JUnit",
     "playStoreUrl": "www.wp.pl"
   },
   {
     "name": "Elektromoc",
     "githubUrl": "https://github.com/pawelkassyk/ElektromocApp",
-    "description": "Crossfit Box Timesheet in Android Application/nTechnical Stack: Java, Android, XML, Git, JUnit"
+    "description": "Crossfit Box Timesheet in Android Application\nTechnical Stack: Java, Android, XML, Git, JUnit"
   }
 ]

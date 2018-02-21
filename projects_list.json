@@ -7,7 +7,12 @@
   {
     "name": "Calculator",
     "githubUrl": "https://github.com/pawelkassyk/calculator",
-    "description": "Calculatr - Android Application/nTechnical Stack: Java, Android, Json, Retrofit 2, XML, Git, Gitflow, JUnit, Espresso",
+    "description": "Calculator - Android Application/nTechnical Stack: Java, Android, Json, Retrofit 2, XML, Git, Gitflow, JUnit",
     "playStoreUrl": "www.wp.pl"
+  },
+  {
+    "name": "Elektromoc",
+    "githubUrl": "https://github.com/pawelkassyk/ElektromocApp",
+    "description": "Crossfit Box Timesheet in Android Application/nTechnical Stack: Java, Android, XML, Git, JUnit"
   }
 ]
